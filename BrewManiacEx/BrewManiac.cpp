@@ -43,7 +43,7 @@
 #define WirelessSupported true
 #define EnableSensorResolution true
 
-#define EnableButtonFeedback true
+#define EnableButtonFeedback false
 
 
 #if SerialDebug == true
